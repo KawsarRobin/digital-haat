@@ -1,0 +1,29 @@
+.nav-link:hover{
+    background-color: rgba(241, 96, 91, 0.205);
+}
+.style-button:hover{
+    background-color: #c40300;
+    color: black
+}
+.reg-button:hover{
+ background-color: rgb(15, 68, 15);
+ color: black;
+}
+.mid-img:hover{
+    transform: scale(0.80);
+    transition: transform .40s ease-in;
+}
+.categori-item:hover{
+    background-color: rgb(185, 21, 21);
+}
+.animal-item:hover{
+    transform: scale(1.1)  ;
+    transition: transform 0.2s ease-in;
+    border-radius: 10px;
+}
+.social-icon:hover{
+    transform: scale(1.2)  ;
+    transition: transform .5s ease;
+    border-radius: 10px;
+    background-color: red;
+}
